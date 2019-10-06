@@ -5712,3 +5712,61 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::latsing::lasting
 ::tset::test
 ::bset::best
+
+::fogrot::forgot
+::eo::each other
+::eos::each other's
+::tbh::to be honest
+::tba::to be announced
+::blieve::believe
+::bliver::believer
+::bleived::believed
+::hav ethe::have the
+::marvelled::marveled
+::descnet::descent
+::presure::pressure
+::ned::need
+::wordpress::Wordpress
+::presonally::personally
+::i::I
+::colaborate::collaborate
+::jekyll::Jekyll
+::someon::someone
+::tha tneeded::that needed
+::amazon::Amazon
+::im::I'm
+::markdown::Markdown
+::proabbly::probably
+::publich::publish
+::vent hough::ven though
+::imo::in my opinion
+::drwon::drown
+::discoveres::discovers
+::stroy::story
+::tojust::to just
+::suppsed::supposed
+::hobyist::hobbyist
+::emitt::emit
+::finsih::finish
+::ti::it
+::lok::look
+::involunty::involuntary
+::curent::current
+::expeirce::experience
+::exp::experience
+::expd::experienced
+::exps::experiences
+::extrmee::extreme
+::rbink::brink
+::thurst::thrust
+::wehter::whether
+::throught::through
+::wrodless::wordless
+::convo::conversation
+::dep::deep
+::stragner::stranger
+::thougth::thought
+::ntohing::nothing
+::ju8st::just
+::snet::sent
+::hopeing::hoping
