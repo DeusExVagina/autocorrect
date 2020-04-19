@@ -5892,7 +5892,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::aksing::asking
 ::difrent::different
 ::skils::skills
-::dev::develop
 ::genreally::generally
 ::regualr::regular
 ::compayn::company
@@ -7600,3 +7599,80 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::strucutre::structure
 ::enoguh::enough
 ::grined::grinned
+::rnasom::ransom
+::afte rthem::after them
+::soemoen::someone
+::dedided::decided
+::coem::come
+::youhad::you had
+::crrek::creek
+::publicatoin::publication
+::I'llhave::I'll have
+::applicatoin::application
+::liminted::limited
+::databese::database
+::amdin::admin
+::paoin::pain
+::conencts::connects
+::sincehe::since he
+::speek::speak
+::coyping::copying
+::lateyl::lately
+::twiter::twitter
+::assing::assign
+::actal::actual
+::jekyl::Jekyll
+::effor tinto::effort into
+::co9uld::could
+::hitn::hint
+::amaziang::amazing
+::ewxample::example
+::Hejres::Here's
+::quiick::quick
+::earlyier::earlier
+::aabout::about
+::heres::here is
+::proff::proof
+::randdom::random
+::coment::comment
+::screnshot::screenshot
+::thumbnaisl::thumbnails
+::manaully::manually
+::manaul::manual
+::mentinoed::mentioned
+::projcts::projects
+::baords::boards
+::amuch::a much
+::eaiser::easier
+::Netlfiy::Netlify
+::promtoe::promote
+::apaft::apart
+::frrom::from
+::froomm::from
+::weith::with
+::inofrmation::information
+::everyhitng::everything
+::youi::you
+::monitoriing::monitoring
+::whehther::whether
+::chocolote::chocolate
+::oculdnt::couldn't
+::hjow::how
+::wtihout::without
+::improtatn::important
+::muxh::much
+::conenctions::connections
+::databses::databases
+::conenct::connect
+::cocurse::course
+::stakc::stack
+::couse::course
+::accoounts::accounts
+::acouple::a couple
+::stciker::sticker
+::travvel::travel
+::appraochable::approachable
+::rnadom::random
+::knoing::knowing
+::isnide::inside
+::yo9u::you
