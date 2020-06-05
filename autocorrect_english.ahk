@@ -6,7 +6,7 @@ ScrollLock::Suspend
 ; Sep 13 2007: Added more misspellings.
 ;              Added fix for -ign -> -ing that ignores words like "sign".
 ;              Added word beginnings/endings sections to cover more options.
-;              Added auto-accents section for words like fiancée, naïve, etc.
+;              Added auto-accents section for words like fiancÃ©e, naÃ¯ve, etc.
 ; Feb 28 2007: Added other common misspellings based on MS Word AutoCorrect.
 ;              Added optional auto-correction of 2 consecutive capital letters.
 ; Sep 24 2006: Initial release by Jim Biancolo (http://www.biancolo.com)
@@ -4730,12 +4730,12 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ; and move into the above list or, preferably, the autocorrect user file.
 ;------------------------------------------------------------------------------
 /*
-:*:cooperat::coöperat
-::(c)::©
-::(r)::®
-::(tm)::™
-::a gogo::à gogo
-::abbe::abbé
+:*:cooperat::coÃ¶perat
+::(c)::Â©
+::(r)::Â®
+::(tm)::â¢
+::a gogo::Ã  gogo
+::abbe::abbÃ©
 ::accension::accession, ascension
 ::achive::achieve, archive
 ::achived::achieved, archived
@@ -4747,12 +4747,12 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::affort::afford, effort
 ::agin::again, a gin, aging
 ::agina::again, angina
-::ago-go::àgo-go
+::ago-go::Ã go-go
 ::aledge::allege, a ledge
 ::alot::a lot, allot
 ::alusion::allusion, illusion
 ::amature::armature, amateur
-::anu::añu
+::anu::aÃ±u
 ::anual::annual, anal
 ::anual::annual, manual
 ::aparent::apparent, a parent
@@ -4770,19 +4770,19 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::behavour::behavior, behaviour
 ::belives::believes, beliefs
 ::boaut::bout, boat, about
-::Bon::Bön
+::Bon::BÃ¶n
 
 ::assasined::assassinated Broken by ":*:assasin::", but no great loss.
-::Bootes::Boötes
-::bric-a-brac::bric-à-brac
+::Bootes::BoÃ¶tes
+::bric-a-brac::bric-Ã -brac
 ::buring::burying, burning, burin, during
 ::busineses::business, businesses
-::cafe::café
+::cafe::cafÃ©
 ::calaber::caliber, calibre
 ::calander::calendar, calender, colander
 ::cancelled::canceled  ; commonwealth vs US
 ::cancelling::canceling  ; commonwealth vs US
-::canon::cañon
+::canon::caÃ±on
 ::cant::cannot, can not, can't
 ::carcas::carcass, Caracas
 ::carmel::caramel, carmel-by-the-sea
@@ -4794,9 +4794,9 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::clera::clear, sclera
 ::comander::commander, commandeer
 ::competion::competition, completion
-::continuum::continuüm
-::coopt::coöpt
-::coordinat::coördinat
+::continuum::continuÃ¼m
+::coopt::coÃ¶pt
+::coordinat::coÃ¶rdinat
 ::coorperation::cooperation, corporation
 ::coudl::could, cloud
 ::councellor::councillor, counselor, councilor
@@ -4804,15 +4804,15 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::coururier::courier, couturier
 ::coverted::converted, covered, coveted
 ::cpoy::coy, copy
-::creme::crème
+::creme::crÃ¨me
 ::dael::deal, dial, dahl
 ::deram::dram, dream
 ::desparate::desperate, disparate
 ::diea::idea, die
 ::dieing::dying, dyeing
 ::diversed::diverse, diverged
-::divorce::divorcé
-::Dona::Doña
+::divorce::divorcÃ©
+::Dona::DoÃ±a
 ::doub::doubt, daub
 ::dyas::dryas, Dyas (Robert Dyas is a hardware chain), dais
 ::efford::effort, afford
@@ -4820,7 +4820,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::eigth::eighth, eight
 ::electic::eclectic, electric
 ::electon::election, electron
-::elite::élite
+::elite::Ã©lite
 ::emition::emission, emotion
 ::emminent::eminent, imminent
 ::empirial::empirical, imperial
@@ -4828,8 +4828,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::erally::orally, really
 ::erested::arrested, erected
 ::ethose::those, ethos
-::etude::étude
-::expose::exposé
+::etude::Ã©tude
+::expose::exposÃ©
 ::extint::extinct, extant
 ::eyar::year, eyas
 ::eyars::years, eyas
@@ -4873,7 +4873,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::israelies::Israelis, Israelites
 ::labatory::lavatory, laboratory
 ::labled::labelled, labeled
-::lame::lamé
+::lame::lamÃ©
 ::leanr::lean, learn, leaner
 ::lible::libel, liable
 ::liscense::license, licence
@@ -4892,35 +4892,35 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::manuevers::maneuvers, manoeuvres
 ::mear::wear, mere, mare
 ::meranda::veranda, Miranda
-::Metis::Métis
+::Metis::MÃ©tis
 ::mit::mitt, M.I.T., German "with"
 ::monestary::monastery, monetary
 ::moreso::more, more so
 ::muscels::mussels, muscles
-::ne::né
+::ne::nÃ©
 ::neice::niece, nice
 ::neigbour::neighbour, neighbor
 ::neigbouring::neighbouring, neighboring
 ::neigbours::neighbours, neighbors
 ::nto:: not ; Replaced with case sensitive for NTO acronym.
 ::oging::going, ogling
-::ole::olé
+::ole::olÃ©
 ::onot::note, not
-::opium::opïum
-::ore::öre
-::ore::øre
+::opium::opÃ¯um
+::ore::Ã¶re
+::ore::Ã¸re
 ::orgin::origin, organ
 ::palce::place, palace
-::pate::pâte
-::pate::pâté
+::pate::pÃ¢te
+::pate::pÃ¢tÃ©
 ::performes::performed, performs
 ::personel::personnel, personal
 ::positon::position, positron
-::preëmpt
-::premiere::première
-::premiered::premièred
-::premieres::premières
-::premiering::premièring
+::preÃ«mpt
+::premiere::premiÃ¨re
+::premiered::premiÃ¨red
+::premieres::premiÃ¨res
+::premiering::premiÃ¨ring
 ::procede::proceed, precede
 ::proceded::proceeded, preceded
 ::procedes::proceeds, precedes
@@ -4931,15 +4931,15 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::prominately::prominently, predominately
 ::qtuie::quite, quiet
 ::qutie::quite, quiet
-::reenter::reënter
+::reenter::reÃ«nter
 ::relized::realised, realized
 ::repatition::repetition, repartition
-::residuum::residuüm
+::residuum::residuÃ¼m
 ::restraunt::restraint, restaurant
-::resume::résumé
+::resume::rÃ©sumÃ©
 ::rigeur::rigueur, rigour, rigor
-::role::rôle
-::rose::rosé
+::role::rÃ´le
+::rose::rosÃ©
 ::sasy::says, sassy
 ::scholarstic::scholastic, scholarly
 ::secceeded::seceded, succeeded
@@ -4976,7 +4976,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::travelling::traveling   ; commonwealth vs US
 ::troups::troupes, troops
 ::turnk::turnkey, trunk
-::uber::über
+::uber::Ã¼ber
 ::unmanouverable::unmaneuverable, unmanoeuvrable
 ::unsed::used, unused, unsaid
 ::vigeur::vigueur, vigour, vigor
@@ -4990,7 +4990,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::woulf::would, wolf
 ::ws::was, www.example.ws
 ::Yementite::Yemenite, Yemeni
-:?:oology::oölogy
+:?:oology::oÃ¶logy
 :?:t he:: the  ; Can't use this. Needs to be cleverer.
 */
 
@@ -5118,7 +5118,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::becayse::because
 ::beceause::because
 ::benig::being
-::bjork::Björk
+::bjork::BjÃ¶rk
 ::borther::brother
 ::bouat::about
 ::bougth::bought
@@ -5195,7 +5195,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::documentaiton::documentation
 ::doe sit::does it ; "Where does the doe sit?" is exceedingly uncommon
 ::doenst::doesn't
-::does’t::doesn’t
+::doesât::doesnât
 ::does't::doesn't
 ::doest::doesn't
 ::droppin::dropping
@@ -5297,7 +5297,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::hwne::when
 ::hwy::why ; highway?
 ::i'ts::it's
-::i2c::I²C
+::i2c::IÂ²C
 ::icnlude::include
 ::ifnd::find
 ::imaginig::imagining
@@ -5338,7 +5338,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::kahki::khaki
 ::kev::keV
 ::kidn::kind
-::kwh::kWh ; or kW·h?
+::kwh::kWh ; or kWÂ·h?
 ::langauge::language
 ::layotu::layout
 ::leaveing::leaving
@@ -5378,7 +5378,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::mstake::mistake
 ::muhc::much
 ::muich::much
-::mwh::MWh ; or MW⋅h?
+::mwh::MWh ; or MWâh?
 ::myeslf::myself
 ::nad::and ; usually...
 ::naerby::nearby
@@ -5386,7 +5386,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::naything::anything
 ::nayway::anyway
 ::necesasry::necessary
-::nee::need ; not née
+::nee::need ; not nÃ©e
 ::neergy::energy
 ::negatuive::negative
 ::neough::enough
@@ -5822,7 +5822,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::self publisher::self-publisher
 ::bluetooth::Bluetooth
 ::esp::especially
-::pl�us::plus
+::plöus::plus
 ::prety::pretty
 ::russian::Russian
 ::genertor::generator
@@ -6012,7 +6012,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::slep::sleep
 ::icant::I can't
 ::laredy::already
-::btu�::but
+::btu ::but
 ::kennedy::Kennedy
 ::outlayed::outlaid
 ::gratned::granted
@@ -6239,13 +6239,13 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::combo::combination
 ::milliions::millions
 ::wrtiing::writing
-::wrting�::writing
-::planing�::planning
-::publihsing�::publishing
+::wrting ::writing
+::planing ::planning
+::publihsing ::publishing
 ::owords::words
 ::consitent::consistent
 ::planing::planning
-::wiritng�::writing
+::wiritng ::writing
 ::brianstorming::brainstorming
 ::distractive::distracting
 ::powerhorse::power horse
@@ -6357,7 +6357,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::elimated::eliminated
 ::beter::better
 ::stoped::stopped
-::cruical�::crucial
+::cruical ::crucial
 ::disconected::disconnected
 ::spotify::Spotify
 ::scrren::screen
@@ -6503,7 +6503,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::appearnces::appearances
 ::cruciall::crucial
 ::foucs::focus
-::wortht he�::worth the
+::wortht he ::worth the
 ::muchmoney::much money
 ::pruchase::purchase
 ::muh::much
@@ -6701,7 +6701,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::wiuth::with
 ::osme::some
 ::porjects::projects
-::noen�::none
+::noen ::none
 ::ptential::potential
 ::sleping::sleeping
 ::sutpid::stupid
@@ -7676,3 +7676,625 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::knoing::knowing
 ::isnide::inside
 ::yo9u::you
+::scritp::script
+::forimadle::formidable
+::lto::lot
+::normaly::normally
+::programing::programming
+::lanaguae::language
+::hsot::host
+::fundamentaly::fundamentally
+::presing::pressing
+::wondows::windows
+::aplications::applications
+::rememeber::remember
+::insttead::instead
+::blodd::blood
+::clsoing::closing
+::indec::index
+::eleemnbt::element
+::biut::bit
+::usualyl::usually
+::evetything::everything
+::benfits::benefits
+::everyhing::everything
+::gald::glad
+::carerr::career
+::annd::and
+::balttle::battle
+::maneuverable::manoeuvrable
+::manouvrable::manoeuvrable
+::insde::inside
+::dailight::daylight
+::defi::definitely
+::thouhgt::thought
+::probolems::problems
+::deactiavte::deactivate
+::drak::dark
+::psots::posts
+::psoible::possible
+::funn::fun
+::bootom::bottom
+::overcomplicating::over-complicating
+::compoind::compound
+::Dolalrs::Dollars
+::mometns::moments
+::absolutley::absolutely
+::thirve::thrive
+::valuze::value
+::thourgh::through
+::america::America
+::provice::provide
+::differentyl::differently
+::tutoirals::tutorials
+::opportuniti9es::opportunities
+::imageine::imagine
+::begaviour::behaviour
+::rgard::regard
+::alloweing::allowing
+::paychek::paycheck
+::fromt here::from there
+::storeage::storage
+::wueue::queue
+::backgroudn::background
+::questionaire::questionnaire
+::neighbors::neighbours
+::unfrienldy::unfriendly
+::litel::little
+::Stephany::Stephanie
+::autn::aunt
+::srurprised::surprised
+::realze::realize
+::prrof::proof
+::unknonw::unknown
+::tshirt::t-shirt
+::croisants::croissants
+::coice::voice
+::vecor::vector
+::yorus::yours
+::sturgle::struggle
+::compousre::composure
+::plugne::plunge
+::lsot::lost
+::tonge::tongue
+::stil::still
+::embarraseed::embarrassed
+::sharlatans::charlatans
+::eeven::even
+::les::less
+::orgrasm::orgasm
+::headshakes::head-shakes
+::reaserch::research
+::parisean::Parisian
+::saidly::sadly
+::acutal::actual
+::fresht hough::fresh though
+::realxing::relaxing
+::huntres::huntress
+::hounted::haunted
+::heppy::happy
+::Nealry::Nearly
+::prowd::proud
+::phyisical::physical
+::installment::instalment
+::british::British
+::enouh::enough
+::conditi9ons::conditions
+::tomoreow::tomorrow
+::havetn::haven't
+::funmaking::fun making
+::here#s::here's
+::pronhub::pornhub
+::oppoiste::opposite
+::african::African
+::artifacts::artefacts
+::destiantion::destination
+::artifact::artefact
+::weekness::weakness
+::firest::first
+::netwok::network
+::otthers::others
+::contnetn::content
+::campaing::campaign
+::yo9ur::your
+::ejoy::enjoy
+::competetion::competition
+::downa  little::down a little
+::viedeos::videos
+::contatct::contact
+::feeeling::feeling
+::exitement::excitement
+::uploaing::uploading
+::netowork::network
+::iun::in
+::obvly::obviously
+::worng::wrong
+::extremee::extreme
+::stor y::story
+::lucy::Lucy
+::oyuneed::you need
+::anyting::anything
+::beatufiul::beautiful
+::rememebred::remembered
+::simpley::simply
+::aether::ether
+::jessica::Jessica
+::endand::end and
+::pasued::paused
+::fixiung::fixing
+::naem::name
+::stoping::stopping
+::anway::anyway
+::Jessidca::Jessica
+::dedided::decided
+::osmeone::someone
+::sqirm::squirm
+::hse::she
+::botheered::bothered
+::dresed::dressed
+::parth::path
+::eyse::eyes
+::smiel::smile
+::topcis::topics
+::demeed::deemed
+::aceptable::acceptable
+::reaonsblae::reasonable
+::siftw::swift
+::danlged::dangled
+::owrds::words
+::woolen::woollen
+::amazin,::amazing
+::strentght::strength
+::tookk::took
+::somach::stomach
+::wthi::with
+::outwhat::out what
+::posible::possible
+::eror::error
+::mesages::messages
+::cabable::capable
+::bulshit::bullshit
+::reight::right
+::carrry::carry
+::peoplke::people
+::ntohgin::nothing
+::investiagtion::investigation
+::nect::next
+::dnagerous::dangerous
+::worksout::works out
+::itll::it will
+::mvoing::moving
+::beatuifl::beautiful
+::remmember::remember
+::andmind::and mind
+::brazingly::brazenly
+::enjyo::enjoy
+::addiciting::addicting
+::theose::those
+::atrraction::attraction
+::foregoiong::foregoing
+::subtelty::subtlety
+::cheaping::cheapening
+::chari::chair
+::buillt::built
+::comfotable::comfortable
+::pokcet::pocket
+::ahaid::ahead
+::cheecks::cheeks
+::srtong::strong
+::moring::morning
+::tino::into
+::stabilitze::stabilize
+::mysels::myself
+::despierateyl::desperately
+::breaht::breath
+::askes::asks
+::downt::don't
+::keps::keeps
+::steadiedd::steadied
+::diging::digging
+::mrongin::morning
+::evneing::evening
+::ocunt::count
+::hteose::those
+::sumer::summer
+::lawys::always
+::prgoramming::programming
+::keybpard::keyboard
+::eithe rof::either of
+::betewen::between
+::secdond::second
+::youa re::you are
+::browswers::browsers
+::browswer::browser
+::setnece::sentence
+::stuzpid::stupid
+::stopid::stupid
+::doiong::doing
+::weork::work
+::protion::portion
+::happned::happened
+::everyoen::everyone
+::motniro::monitor
+::sicnerly::sincerely
+::skilsets::skill sets
+::degre::degree
+::heare::hear
+::morngin::morning
+::juust::just
+::posibly::possibly
+::enlgish::English
+::disturbe::disturb
+::toally::totally
+::stoart::start
+::whiole::while
+::sllug::slug
+::remvoed::removed
+::powreful::powerful
+::anyonethis::anyone this
+::yout::you
+::laughted::laughed
+::finsh::finish
+::undertatking::undertaking
+::togher::together
+::stuick::stuck
+::whi9ch::which
+::skiy::sky
+::toook::took
+::iresponsible::irresponsible
+::biulding::building
+::earnigs::earnings
+::enouzgh::enough
+::lkeft::left
+::ofer::offer
+::afternnon::afternoon
+::thoer::other
+::filtereing::filtering
+::tohse::those
+::rewuest::request
+::rewuests::requests
+::manic::maniac
+::stresing::stressing
+::hgave::have
+::wasy::ways
+::turna::turn a
+::peny::penny
+::Frellance::Freelance
+::smashwords::Smashwords
+::tehri::their
+::progreaming::programming
+::prifate::private
+::lucnh::lunch
+::ehad::head
+::relatvie::relative
+::selcet::select
+::surpirsing::surprising
+::wihth::with
+::anytihgn::anything
+::ltitle::little
+::dartup::dart up
+::stronly::strongly
+::tabbning::tabbing
+::frighteningsly::frighteningly
+::enviouis::envious
+::precisiion::precision
+::arouond::around
+::enoug::enough
+::fator::factor
+::openting::opening
+::exsits::exists
+::thourhgout::throughout
+::traying::trying
+::offseeting::offsetting
+::mesure::measure
+::wnt::want
+::bigest::biggest
+::meeitngs::meetings
+::everytone::everyone
+::happne::happen
+::wati::wait
+::newletter::newsletter
+::everoyne::everyone
+::homeage::homepage
+::moake::make
+::tohre::other
+::repariing::repairing
+::todl::told
+::avice::advice
+::qulaity::quality
+::mechancial::mechanical
+::espe::especially
+::mechaincal::mechanical
+::sems::seems
+::cancelling::canceling
+::proteced::protected
+::enviorn::environment
+::pratcie::practice
+::listenting::listening
+::theday::the day
+::enron::environment
+::tose::those
+::anyoing::annoying
+::minot::minor
+::reutrn::return
+::opinon::opinion
+::othger::other
+::ting::thing
+::andt hey::and they
+::along time::a long time
+::minur::minor
+::activies::activities
+::hobies::hobbies
+::lusyury::luxury
+::bluetooh::Bluetooth
+::wbesite::website
+::abouit::about
+::lessosn::lessons
+::tjob::job
+::poour::pour
+::goodle::Google
+::navigatre::navigate
+::environs::invironments
+::ediors::editors
+::ofice::office
+::differente::difference
+::consiered::considered
+::wrokgin::working
+::ryhtm::rhythm
+::hesitte::hesitate
+::frind::friend
+::monetray::monetary
+::resonable::reasonable
+::stabel::stable
+::meel::meal
+::Develoipment::Development
+::somethine::something
+::whent here::when there
+::ridiculus::ridiculous
+::remmebring::remembering
+::ocured::occurred
+::projets::projects
+::disecting::dissecting
+::surpsingly::surprisingly
+::wuirky::quirky
+::rabit::rabbit
+::wuirks::quirks
+::int heir::in their
+::Takeway::Takeaway
+::Finacial::Financial
+::afternon::afternoon
+::maintenacne::maintenance
+::falmes::flames
+::tuesdays::Tuesdays
+::wil::will
+::aretn::aren't
+::progres::progress
+::actioanble::actionable
+::oucld::could
+::paralelization::parallelization
+::weirldy::weirdly
+::ridiculoulsy::ridiculously
+::honeslty::honestly
+::videot::video
+::enougha nd::enough and
+::radious::radius
+::denmark::Denmark
+::cannot::can not
+::papr::paper
+::peoplle::people
+::ridiculuosy::ridiculously
+::outisde::outside
+::contry::country
+::liten::listen
+::afordabel::affordable
+::esy::easy
+::ismplicty::simplicity
+::aford::afford
+::montior::monitor
+::microsoft::Microsoft
+::winodws::windows
+::montor::monitor
+::beautiufl::beautiful
+::liife::life
+::partiuclar::particular
+::mainyl::mainly
+::distributtion::distribution
+::whenver::whenever
+::refils::refills
+::youneed::you need
+::pinnning::pinning
+::conrol::control
+::javascript::JavaScript
+::broekn::broken
+::asure::assure
+::fraglie::fragile
+::hapeen::happen
+::publiations::publications
+::apllying::applying
+::deprevation::deprivation
+::isses::issues
+::gonan::gonna
+::accumuluated::accumulated
+::reserch::research
+::aboslutly::absolutely
+::valuebl::valuable
+::duing::during
+::combied::combined
+::repsonsible::responsible
+::paset::paste
+::keybaord::keyboard
+::conectivity::connectivity
+::cahir::chair
+::defintions::definitions
+::laoptop::laptop
+::wrothwhile::worthwhile
+::surronds::surrounds
+::varioius::various
+::aloow::allow
+::resutls::results
+::furnitre::furniture
+::coleagues::colleagues
+::developmsnes::developments
+::oftent imes::often time
+::french::French
+::chocies::choices
+::pput::put
+::rellay::really
+::nromal::normal
+::everone::everyone
+::fifht::fifth
+::affiliateion::affiliation
+::infaltion::inflation
+::condistions::conditions
+::exisitn::existing
+::puchases::purchases
+::beenfical::beneficial
+::seeve::sieve
+::outleigh::outlay
+::intead::instead
+::makr::mark
+::setings::settings
+::anture::nature
+::sutpidly::stupidly
+::configuire::configure
+::componetnes::components
+::compoentnes::components
+::ouy::you
+::omney::money
+::abanond::abandon
+::chanel::channel
+::motnhs::months
+::reapir::repair
+::attemtping::attempting
+::cuting::cutting
+::positivly::positively
+::walpaper::wallpaper
+::constnatnly::constantly
+::jost::just
+::awesoem::awsome
+::ogtten::gotten
+::hadnns::hands
+::perfetly::perfectly
+::literlay::literally
+::furniutre::furniture
+::quickily::quickly
+::benfeits::benefits
+::tomorro::tomorrow
+::manby::many
+::proobably::probably
+::maen::mean
+::carerrs::careers
+::potentail::potential
+::fro::for
+::transprot::transport
+::pregnatn::pregnant
+::qhole::whole
+::cosntraint::constraint
+::questionaire::questionaire
+::ccould::could
+::converst::converts
+::guaranteee::guarantee
+::mechanciaal::mechanical
+::yorusef::yourself
+::enjoyabel::enjoyable
+::amazin::amazing
+::flwo::flow
+::isseu::issue
+::densitiy::density
+::reducint::reducing
+::aforded::afforded
+::serios::serious
+::wireles::wireless
+::producitvity::productivity
+::librarby::library
+::realites::realities
+::unlimeted::unlimited
+::realiteis::realities
+::fowrd::forward
+::frewuently::frequently
+::ffully::fully
+::conintue::continue
+::interrnet::internet
+::acces::access
+::farnkly::frankly
+::rediculuous::ridiculous
+::interenet::internet
+::acess::access
+::rbowser::browser
+::mechancail::mechanical
+::broswer::browser
+::poistion::position
+::alptop::laptop
+::placmeent::placement
+::amchine::maching
+::suceds::succeeds
+::frequenylt::frequently
+::keybord::keyboard
+::cahnel::channel
+::skil::skill
+::anyoen::anyone
+::moced::moved
+::ocne::once
+::anymroe::anymore
+::healhty::healthy
+::maintaitnnce::maintenance
+::hivhly::highly
+::eaxmle::example
+::juts::just
+::moave::move
+::technoligies::technologies
+::quickyl::quickly
+::lifextyle::lifestyle
+::contenet::content
+::curently::currently
+::independt::independent
+::surpringly::surprisingly
+::mmetal::metal
+::tennt::tent
+::favo::favorite
+::bariers::barriers
+::ladi::laid
+::constrautnion::construction
+::soruce::source
+::doesnst::doesn't
+::expe::experience
+::a bout::about
+::metings::meetings
+::habiots::habits
+::foregt::forget
+::motivaotr::motivator
+::debuging::debugging
+::inherentyl::inherently
+::cousts::costs
+::someoene::someone
+::alll::all
+::biger::bigger
+::bruned::burned
+::existentail::existencial
+::sruprising::surprising
+::policitcal::political
+::strets::streets
+::exuse::excuse
+::whehter::whether
+::wehther::whether
+::belieavable::believable
+::functionaily::functionality
+::contect::context
+::freqzuently::frequently
+::wquickly::quickly
+::jumpt o::jump to
+::omst::most
+::m e::me
+::itseslf::itself
+::doucmentationss::documentations
+::copared::compared
+::Expaning::Expanding
+::mking::making
+::tings::things
+::toatly::totally
+::superflous::superfluous
+::onticing::noticing
+::backsapce::backspace
+::exes::eyes
+::reasable::readable
+::coretction::corrections
